@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Hyper Focus",
+    "version": "1.0",
+    "description": "Blocks your distractions",
+    
+    "icons": {
+      "16": "distraction.png",
+      "32": "distraction.png",
+      "48": "distraction.png",
+        "128": "distraction.png"
+      },  
+    
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["Scripts/content-script.js"]
+        }
+      ],
+
+    "action": {
+        "default_title": "Hyper Focus",
+        "default_popup": "popup.html",
+        "default_icon": "distraction.png"
+      }
+}
