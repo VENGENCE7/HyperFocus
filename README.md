@@ -30,6 +30,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#extension-preview">Extension Preview</a></li>
+       <ul>
+            <li><a href="#hf-10">HF-1.0</a></li>
+            <li><a href="#hf-20">HF-2.0</a></li>
+        </ul>
     <li><a href="#site-block-list">Sites it will block</a></li>
         <ul>
             <li><a href="#social-media-sites">Social Media Sites</a></li>
@@ -51,13 +55,32 @@
 
 <!-- Extension Preview -->
 ## Extension Preview
-Here you can clearly see that on accessing Prime Video, it displays this webpage with quotes for motivation.
+Here you can clearly see that on accessing Prime Video & Instagram, it displays this webpage with quotes for motivation and the site name ur accessing.
+
+<br />
+
+### HF-2.0
++ New Shooting Stars Animation
++ Gave it a more __pleasant and modern Look__
+
+<br />
+
+![HyperFocus2](https://user-images.githubusercontent.com/86911386/182374990-b23479c1-4fa0-445f-9127-003f724af1fc.png)
+
+
+<br />
+
+### HF-1.0
++ Here there is a __Ghost animation__ which keeps bouncing Up and Down
++ "Keep Going" text has flaming animation
+
 <br />
 
 ![HyperFocus](https://user-images.githubusercontent.com/86911386/181909582-a6818547-6dad-4ba3-b9f2-489559c1c0d3.png)
 
 <br />
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- Site Block List -->
 ## Site Block List
@@ -111,7 +134,12 @@ All the below sites will be inaccessible:
 
 <!-- Download and Extract -->
 ### 2: Download and Extract
- + Download the extension from <a href="https://github.com/VENGENCE7/HyperFocus/releases/tag/HF-1.0"> releases </a>.
+ + Download the extension from <a href="https://github.com/VENGENCE7/HyperFocus/releases"> releases </a>.
+ + Download the on you need
+    + There are thwo versions:
+      + HF-1.0
+      + HF-1.0
+ 
  
 <!-- Installations -->
 ## Installation
