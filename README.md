@@ -136,7 +136,7 @@ All the below sites will be inaccessible:
 ### 2: Download and Extract
  + Download the extension from <a href="https://github.com/VENGENCE7/HyperFocus/releases"> releases </a>.
  + Download the on you need
-    + There are thwo versions:
+    + There are two versions:
       + HF-1.0
       + HF-1.0
  
